@@ -4,6 +4,7 @@
 - 💬 Ask me about bioinformatics applications on healthcare problems
 - ⚡️ I’m looking to collaborate on bioinformatics and computational biology projects
 - 👨🏻‍💻 Languages: R, Python, Bash, Matlab, SQL
+- 📍 🇺🇸 | 🇸🇪 | 🇪🇸 | 🇹🇷
 
 <!-- display the social media buttons in your README -->
 
