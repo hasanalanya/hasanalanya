@@ -1,4 +1,8 @@
-### Hi there, my name is Hasan 👋
+### Hi there 👋
+
+I'm Hasan, a Postgrad Researcher at Yale School of Medicine in New Haven, CT 🇺🇸. 
+
+Previously @SciLifeLab, Karolinska, KTH and SU.
 
 - 🧠 I’m currently working on understanding the multi-omic (genomic/transcriptomic/epigenetic) profiles of various tumors through computational methods
 - 💬 Ask me about bioinformatics applications on healthcare problems
